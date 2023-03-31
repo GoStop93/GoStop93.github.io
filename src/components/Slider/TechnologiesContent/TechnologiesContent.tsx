@@ -19,7 +19,7 @@ import webpack from '../../../assets/icons/tools/webpack.png';
 export const TechnologiesContent = () => {
 
     const duration = 5000;
-    const [showContent, setShowContent] = useState(true);
+    const [showContent, setShowContent] = useState(false);
   
     const labels = [
         'JavaScript' ,
@@ -47,7 +47,8 @@ export const TechnologiesContent = () => {
         <StyledTechnologiesWrapper  
             onMouseEnter={() => setShowContent(true)} 
             onMouseLeave={() => setShowContent(false)}>
-            <CSSTransition                    
+            <CSSTransition    
+                appear={true}                
                 in={showContent}
                 timeout= {duration}
                 classNames='TechnologiesContent'
