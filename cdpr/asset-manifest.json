@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/cdpr/static/css/main.526e593a.css",
+    "main.js": "/cdpr/static/js/main.a38b8ef7.js",
+    "static/js/787.444f33d6.chunk.js": "/cdpr/static/js/787.444f33d6.chunk.js",
+    "static/media/wolf_yellow.png": "/cdpr/static/media/wolf_yellow.06fd57ae5d75eeb40319.png",
+    "static/media/layer-back.jpg": "/cdpr/static/media/layer-back.d4ed91a38ff9b8bea574.jpg",
+    "static/media/my_photo2.png": "/cdpr/static/media/my_photo2.3cc007930a762eb4b57c.png",
+    "static/media/my_photo.png": "/cdpr/static/media/my_photo.16e3099ab27d8f6fc1cf.png",
+    "static/media/layer-fornt.png": "/cdpr/static/media/layer-fornt.e6bd768a199f475c3a36.png",
+    "static/media/layer-middle.png": "/cdpr/static/media/layer-middle.2f304d73729181e536c7.png",
+    "static/media/wolf_red.png": "/cdpr/static/media/wolf_red.891e540f982102cab72c.png",
+    "static/media/layer-front.png": "/cdpr/static/media/layer-front.f5acf49d7d2ae4850ddc.png",
+    "static/media/layer-ciri.png": "/cdpr/static/media/layer-ciri.80b14927405df043c587.png",
+    "static/media/jira.png": "/cdpr/static/media/jira.47904dc4f34885e3189c.png",
+    "static/media/breathtaking.png": "/cdpr/static/media/breathtaking.234b39e0eb27b40df051.png",
+    "static/media/react.png": "/cdpr/static/media/react.283f9f863581bb226e65.png",
+    "static/media/breathtaking.mp3": "/cdpr/static/media/breathtaking.c08d642505d04190398d.mp3",
+    "static/media/jest.png": "/cdpr/static/media/jest.40260b8a4442dd58a90f.png",
+    "static/media/git.png": "/cdpr/static/media/git.d289aa89eb646d1121d0.png",
+    "static/media/thewitcher-4.ttf": "/cdpr/static/media/thewitcher-4.d40f3b84832ebc8a9a50.ttf",
+    "static/media/webpack.png": "/cdpr/static/media/webpack.87e1e52a492c0627f226.png",
+    "static/media/Cyberpunk.ttf": "/cdpr/static/media/Cyberpunk.ce09ddf4d0a0f2fd4619.ttf",
+    "static/media/ts.png": "/cdpr/static/media/ts.af108db04a54d784da9b.png",
+    "index.html": "/cdpr/index.html",
+    "main.526e593a.css.map": "/cdpr/static/css/main.526e593a.css.map",
+    "main.a38b8ef7.js.map": "/cdpr/static/js/main.a38b8ef7.js.map",
+    "787.444f33d6.chunk.js.map": "/cdpr/static/js/787.444f33d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.526e593a.css",
+    "static/js/main.a38b8ef7.js"
+  ]
+}
